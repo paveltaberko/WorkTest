@@ -1,0 +1,8 @@
+{
+  "isBackendNotAvailable": true,
+  "fallbackDictionaryUrl": {
+    "smarttv": "https://static.beeline.tv/catalog/translations/20251204_CTV.json",
+    "mobile": "https://github.com/davydko7/Oxagile/blob/main/test_fallback_mobile.json"
+  },
+"webURL": "https://beepopcorn.ru/ru-RU"
+}
